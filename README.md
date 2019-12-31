@@ -8,11 +8,12 @@
 
 
 ### Ch01. 비트코인 네트워크 개요
-
+---
 [Summary(Notion)](https://www.notion.so/nathanh/1-568394d3a1d844a7876426cd9b5251ac)
 
 ### Ch02. 암호기술
-
+---
+[Summary(Notion)](https://www.notion.so/nathanh/Ch02-0fd4b4ec7bd142d6b8d749f8eea402d4)
 
 ### Ch03. 지갑
 
