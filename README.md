@@ -16,7 +16,8 @@
 [Summary(Notion)](https://www.notion.so/nathanh/Ch02-0fd4b4ec7bd142d6b8d749f8eea402d4)
 
 ### Ch03. 지갑
-
+---
+[Summary(Notion)](https://www.notion.so/nathanh/Ch03-eabb14821f694c708f30fca44cf09c3b)
 
 ### Ch04. 트랜잭션
 
